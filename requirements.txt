@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn
+pdfplumber
+ftfy
+pandas
+torch
+transformers
+sentence-transformers
+chromadb
+langchain
